@@ -1,2 +1,2 @@
 # repo02
-New stuff.
+Personal projects.
